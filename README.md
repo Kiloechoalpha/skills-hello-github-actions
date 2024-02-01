@@ -1,5 +1,6 @@
 <header>
 
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
@@ -7,7 +8,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Hello GitHub Actions
+# Hello GitHub Actions 
 
 _Create a GitHub Action and use it in a workflow._
 
